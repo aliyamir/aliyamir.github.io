@@ -1,0 +1,72 @@
+
+body{
+    background-image: url(body.jpg.jpg);
+}
+.container{
+    background-color: rgb(255, 255, 255);
+}
+.nav-item{
+    text-align: center;
+    width: 200px;
+}
+
+
+.carousel-item-active{
+    text-align: center;
+    background: linear-gradient( white, rgb(34, 34, 128));
+
+}
+.carousel-item{
+    text-align: center;
+    background: linear-gradient(white, rgb(34, 34, 128));
+}
+.table2{
+    background-color: white;
+    margin-top: 10px;
+    width: 1024px;
+    text-align: center;
+    margin: auto;
+}
+.hochesh{
+    color: crimson;
+}
+.tbl3{
+    background-color: white;
+    width: 1024px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;  
+}
+.tbl4{
+    background-color: white;
+    width: 1024px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;  
+}
+.shans{
+    text-align: left;
+}
+.tbl5{
+    background-color: white;
+    width: 1024px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;  
+}
+.tbl0{
+    background-color: crimson;
+    width: 1200px;
+    text-align: center;
+    margin: auto;
+}
+.osn{
+    color: white;
+}
+.table1{
+    width: 1024px;
+    margin: auto;
+}
+.table1.td{
+    text-align: center;
+}
